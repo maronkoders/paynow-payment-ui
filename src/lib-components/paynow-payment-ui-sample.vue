@@ -2,7 +2,8 @@
 import { defineComponent } from 'vue';
 
 export default /*#__PURE__*/defineComponent({
-  name: 'PaynowPaymentUiSample', // vue component name
+  name: 'PaynowPaymentUiSample', // vue component name,
+  
   data() {
     return {
       mobileWallet:"",
